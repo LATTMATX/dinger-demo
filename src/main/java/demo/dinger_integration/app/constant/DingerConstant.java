@@ -13,13 +13,13 @@ public class DingerConstant {
 //    public static String BASE_URL = "https://prebuilt.dinger.asia";
 
     public static final String CALLBACK_KEY = "23c60aeed345f5a823de3783826cb59d";
-    public static String PUBLIC_KEY = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDYirgW+yWMawNimre0AiVhVtlDZ3WrdwP8mkZm7V9gIDE26LQYv9eZ5AMli948E9x3sewQWCp4jNRMwGviPH3kMvbkSuD8xOwCffPkQTjoH8Oc86OMZX799Mls5CEsPx1r3GpPeyFsTWKPJJrHDwGDWLaDMDw5+LVx0tso1yGDgwIDAQAB";
+    public static String PUBLIC_KEY = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCIsLYUiWrFIAmuJ2G4jD7DQDV7b2mTvjiqYMy7RVjRWEUIMThNnIDeQL9DLLAZTygVxesWGqyRZ9t05JRKgauYy4wiI7oRcxoHXh1QOLS0FSZPFH+l/PLEzCEsSYHOeQEYT7V+RDIrJB2j9Eyan7jvub95ZkeT6WxGHpBD9iQU4QIDAQAB";
     public static String PAYMENT_ENCRYPTION_KEY = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCFD4IL1suUt/TsJu6zScnvsEdLPuACgBdjX82QQf8NQlFHu2v/84dztaJEyljv3TGPuEgUftpC9OEOuEG29z7z1uOw7c9T/luRhgRrkH7AwOj4U1+eK3T1R+8LVYATtPCkqAAiomkTU+aC5Y2vfMInZMgjX0DdKMctUur8tQtvkwIDAQAB";
     public static String CLIENT_ID = "c8352143-4c5f-3a85-a0db-43f47d057220";
-    public static String MERCHANT_KEY = "ps8tiv3";
+    public static String MERCHANT_KEY = "kj7jc31.HEYaw-EtaBVeivF_dDd0bIrP1ms";
     public static String SECRET_KEY = "201b039ca26e338b3a372737f6a324fa";
-    public static String MERCHANT_NAME = "Lattmat";
-    public static String PROJECT_NAME = "LATTMAT";
+    public static String MERCHANT_NAME = "Zayar Linn Naung";
+    public static String PROJECT_NAME = "Lattmat";
     public static String BASE_URL = "https://form.dinger.asia";
 
 }
